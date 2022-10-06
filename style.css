@@ -1,0 +1,21 @@
+h1 {
+    text-indent: 2em;
+    color: navy;
+    font-weight: bold;
+    font-family: 'Noto Sans TC', serif;
+}
+
+
+
+p.lyrics {
+    color: black;
+    display: flex;
+    background-color: skyblue;
+    font-weight: 300;
+    font-family: 'Noto Sans TC', sans-serif;
+}
+p.meta {
+    text-indent: 2em;
+    color: gray;
+    font-family: 'Noto Sans TC', sans-serif;
+}
